@@ -24,6 +24,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33810#On-the-magnet-magnetick-bodies-also-and-on-the-great-magnet-the-eartha-new-physiology-demonst_
 gutenberg_issued: '2010-09-26'
 gutenberg_type: Text
 identifiers:
